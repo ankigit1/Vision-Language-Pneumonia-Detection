@@ -1,4 +1,4 @@
-# 🩻 Vision–Language Model Guided Framework for Pneumonia Detection Using LBP-Stacked Bilateral Chest X-Rays
+# 🩻Using Vision–Language Model to detect Pneumonia Using Chest X-Rays 
 
 This repository contains the implementation of a **Vision–Language Model (VLM) guided Siamese framework** for pneumonia detection using **Local Binary Pattern (LBP)**-enhanced, **bilaterally split chest X-rays**.  
 The framework integrates *symmetry reasoning*, *texture encoding*, and *contrastive laterality supervision* to achieve robust and interpretable classification.
